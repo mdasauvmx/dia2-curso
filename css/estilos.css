@@ -1,7 +1,12 @@
 body{
-    background-color: blanchedalmond;
+    background-color: rgb(231, 186, 118);
 }
 
 h1{
     color: purple;
+}
+
+h2{
+    color:pink
+
 }
