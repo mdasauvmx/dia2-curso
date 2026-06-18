@@ -2,3 +2,5 @@
 # Datos desde main, ejercicio
 
 # ESTOY EN CONFLICTO
+
+Informacion adicional
